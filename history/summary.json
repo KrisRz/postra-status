@@ -4,18 +4,20 @@
     "url": "https://app.postra.pl/api/monitor/queue/main",
     "icon": "https://icons.duckduckgo.com/ip3/app.postra.pl.ico",
     "slug": "postra-app-api-health",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 463,
-    "timeWeek": 463,
-    "timeMonth": 463,
-    "timeYear": 463,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 389,
+    "timeDay": 389,
+    "timeWeek": 389,
+    "timeMonth": 389,
+    "timeYear": 389,
+    "dailyMinutesDown": {
+      "2026-05-30": 0
+    }
   },
   {
     "name": "Postra Landing",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.postra.pl.ico",
     "slug": "postra-cdn",
     "status": "down",
-    "uptime": "71.44%",
-    "uptimeDay": "71.44%",
-    "uptimeWeek": "71.44%",
-    "uptimeMonth": "71.44%",
-    "uptimeYear": "71.44%",
+    "uptime": "0.31%",
+    "uptimeDay": "0.31%",
+    "uptimeWeek": "0.31%",
+    "uptimeMonth": "0.31%",
+    "uptimeYear": "0.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-30": 0
+      "2026-05-30": 122
     }
   }
 ]
