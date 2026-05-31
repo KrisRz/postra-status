@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.postra.pl.ico",
     "slug": "postra-app-api-health",
     "status": "up",
-    "uptime": "66.91%",
-    "uptimeDay": "66.91%",
-    "uptimeWeek": "66.91%",
-    "uptimeMonth": "66.91%",
-    "uptimeYear": "66.91%",
-    "time": 420,
-    "timeDay": 420,
-    "timeWeek": 420,
-    "timeMonth": 420,
-    "timeYear": 420,
+    "uptime": "86.81%",
+    "uptimeDay": "86.81%",
+    "uptimeWeek": "86.81%",
+    "uptimeMonth": "86.81%",
+    "uptimeYear": "86.81%",
+    "time": 444,
+    "timeDay": 444,
+    "timeWeek": 444,
+    "timeMonth": 444,
+    "timeYear": 444,
     "dailyMinutesDown": {
       "2026-05-30": 60
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 736,
-    "timeWeek": 736,
-    "timeMonth": 736,
-    "timeYear": 736,
+    "time": 402,
+    "timeDay": 402,
+    "timeWeek": 402,
+    "timeMonth": 402,
+    "timeYear": 402,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.postra.pl.ico",
     "slug": "postra-cdn",
     "status": "down",
-    "uptime": "0.20%",
-    "uptimeDay": "0.20%",
-    "uptimeWeek": "0.20%",
-    "uptimeMonth": "0.20%",
-    "uptimeYear": "0.20%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-30": 182
+      "2026-05-31": 170,
+      "2026-05-30": 288
     }
   }
 ]
