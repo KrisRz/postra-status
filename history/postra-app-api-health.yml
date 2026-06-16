@@ -1,7 +1,7 @@
 url: https://app.postra.pl/api/monitor/queue/main
 status: up
 code: 200
-responseTime: 489
-lastUpdated: 2026-06-15T00:04:59.444Z
+responseTime: 416
+lastUpdated: 2026-06-16T00:26:59.935Z
 startTime: 2026-05-30T19:11:27.884Z
 generator: Upptime <https://github.com/upptime/upptime>
