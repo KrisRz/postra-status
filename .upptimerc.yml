@@ -20,13 +20,18 @@ sites:
   - name: Postra Landing
     url: https://postra.pl
   - name: Postra CDN
-    url: https://cdn.postra.pl
+    # CloudFront cdn-dev.postra.pl; root has no default object, so the edge
+    # answers 403 when healthy — both codes mean "CDN up".
+    url: https://cdn-dev.postra.pl
+    expectedStatusCodes:
+      - 200
+      - 403
 
 status-website:
   cname: status.postra.pl
   name: Postra Status
-  introTitle: "Postra — status uslug"
-  introMessage: "Aktualny stan dostepnosci app.postra.pl i powiazanych uslug."
+  introTitle: "Postra — service status"
+  introMessage: "Current availability of app.postra.pl and related services."
   navbar:
     - title: Status
       href: /
