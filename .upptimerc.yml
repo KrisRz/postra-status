@@ -32,11 +32,12 @@ status-website:
   name: Postra Status
   introTitle: "Postra — service status"
   introMessage: "Current availability of app.postra.pl and related services."
+  # Single-item navbar: the GitHub tab rendered blank where this page is
+  # mostly seen (embedded in the admin Dashboards iframe) because github.com
+  # refuses framing via X-Frame-Options.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/KrisRz/postra-status
 
 assignees:
   - KrisRz
