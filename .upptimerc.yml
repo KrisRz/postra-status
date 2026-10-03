@@ -26,6 +26,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+  - name: Postra UK Landing
+    url: https://postra.co.uk
 
 status-website:
   cname: status.postra.pl
