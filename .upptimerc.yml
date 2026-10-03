@@ -9,7 +9,7 @@
 #   3. Dodaj secret GH_PAT (classic PAT: repo + workflow)
 #   4. Wlacz Pages + ustaw DNS status.postra.pl -> KrisRz.github.io
 
-owner: KrisRz
+owner: Postra-app
 repo: postra-status
 
 sites:
