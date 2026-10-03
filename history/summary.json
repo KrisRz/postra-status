@@ -49,11 +49,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn-dev.postra.pl.ico",
     "slug": "postra-cdn",
     "status": "up",
-    "uptime": "66.54%",
+    "uptime": "66.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.54%",
+    "uptimeYear": "66.64%",
     "time": 480,
     "timeDay": 327,
     "timeWeek": 460,
@@ -104,5 +104,23 @@
       "2026-05-31": 1440,
       "2026-05-30": 288
     }
+  },
+  {
+    "name": "Postra UK Landing",
+    "url": "https://postra.co.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/postra.co.uk.ico",
+    "slug": "postra-uk-landing",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
